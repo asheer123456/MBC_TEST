@@ -10,6 +10,8 @@ MCB Assessment Steps for Data Migration:
 5.	Execute the file “DB_Views” which will create the views for task 4 , 5 and 6
 
 TASK 4: execute the file “DB_SUMMARY.sql”
+
 TASK 5: execute the file “DB_THIRD_HIGHEST.sql”
+
 TASK 6: execute the file “DB_SUPPLIER_LIST.sql”
 
